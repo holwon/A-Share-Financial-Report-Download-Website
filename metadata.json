@@ -1,0 +1,6 @@
+{
+  "name": "A股财报一键下载与分析平台",
+  "description": "一站式A股上市公司财报极速检索、官方定期报告原件(PDF)单篇与历年打包下载、财务三表(Excel)数据导出及杜邦分析可视化看板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
